@@ -66,7 +66,7 @@ While I do not feel qualified to make recommendations to Elon Musk, I would like
 I have had and used an Apple iPhone for the since the iPhone 3s came out in 2009. Apple always did a great job of creating a product with beautiful UI and a simplicity that made their phones easy for most generations to use. At this point my iPhone is a comfort and the thought of having an Android phone again feels dreadful. However, outside of those two options there are no other serious competitors. With Apple looking to add its new “apple Intelligence" to their newest iPhone, there is a lot of uncertainty revolving around the AI's capabilities and personal Privacy. Elon Musk himself has stated with apple's new AI he will not permit workers in his buildings to have or use apple products with these capabilities, and visitors to his factories will have to check them in before entering. Given the uncertainty around the capabilities of Ai, I imagine there will be a large market for an alternative phone for people who wish for options other than an android phone. Therefore, I believe an X phone with an emphasis on the use of Explainable AI would be a promising alternative to a very large portion of iPhone users who are looking for more alternatives.
 
 
-## Citation for resources 
+## Citation for sources 
 
 Vincent, J. (2018, February 21). Elon Musk leaves board of AI safety group to avoid conflict of interest with Tesla. Retrieved July 9, 2024, from https://www.theverge.com/2018/2/21/17036214/elon-musk-openai-ai-safety-leaves-board
 
