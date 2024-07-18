@@ -3,15 +3,17 @@
 ## *Overview and origin*
 
 This case study will attempt to take a dive into the Ai start up created by one of the most influential humans on earth today. Whether you are a fan or not; almost everyone is curious what Tech Billionaire, Elon Musk, thinks of today’s biggest advancement and challenges. In an interesting move Elon musk stepped down from the board of OpenAI, the nonprofit research group he co-founded with Sam Altman. Elon left to avoid a conflict of interest between Open AI's work, and the research being done by tesla to develop autonomous driving through machine learning. Musk also expressed concerns about how OpenAI was pursuing a for profit structure, and how it was prioritized over the mission of helping the world and developing technology for the public good.
+
 [click here for source](https://www.theverge.com/2018/2/21/17036214/elon-musk-openai-ai-safety-leaves-board)
 
 [click here for source](https://learningenglish.voanews.com/a/why-is-elon-musk-bringing-legal-action-against-openai-/7513306.html)
 
-[Click here to visit X][def] 
+[Click here to visit Elon's X post][https://x.com/elonmusk/status/1794981927125987683?lang=en] 
 
 On March 9, 2023, Elon musk would incorporate his own Ai company, Ai, and would officially announce its formation on July 12, 2023. Musk started his company with a bang when he hired Igor Babushkin, formerly associated with Google's DeepMind unit, to be his Chief Engineer. Musk has been very open that the formation of xAI was, in part, to be a relevant competitor to Google/DeepMind, focusing on the impact of AI on society. Elon would fund his new company on his own at the beginning, staying true to his statements of prioritizing AI impact over profitability. However, on May26, 2024 he announced a Series B funding round which would generate 6 billion Dollars, reaching a post-money valuation of 24 billion. 
 > "Our Series B funding round of $6 billion with participation from key investors including Valor Equity Partners, Vy Capital, Andreessen Horowitz, Sequoia Capital, Fidelity Management & Research Company, Prince Alwaleed Bin Talal and Kingdom Holding, amongst others."
- [click here for source](https://x.ai/blog/series-b)
+
+[click here for source](https://x.ai/blog/series-b)
 
 ## *Business Activity*
 
@@ -19,7 +21,7 @@ There are multiple problems xAI is trying to solve. First and foremost is to dev
 
 The first product being produced by xAI is a chat bot called Grok. To access Grok in its early stages; you must have a Premium+ subscription X, formerly Twitter. xAI has made a giant effort to create transparency behind Grok-1, which is the model that powers this chatbot. On November 6, 2023, xAI would announce PromptIDE which is, < "An integrated development environment for prompt engineering and interpretability research." > The idea behind this is to help combat the uncertainty behind the black box issue with Ai which is to better understand how Grok reaches its conclusions and predictions. This decision, I believe, helps humanity better trust Ai; but also keeps humans in control of AI without our worst sci-fi nightmares coming true. As of April 12, 2024, xAi released a preview into Grok-1.5 which shows just how effective Grok has become in relation to its major chatbot competitors. We will look at these comparisons in the results section of this case study. 
 
-[click here to go to xAI blog post](https://x.ai/blog/prompt-ide)
+[This information is found in an xAI blog post](https://x.ai/blog/prompt-ide)
 
 ## *Landscape*
 
@@ -55,6 +57,8 @@ Grok-1.5 also compares very competitively in benchmarks AI2D (understanding diag
 ### RealWorldQA
 Real World QA is a Benchmark specific to xAI that measures real-world spatial understanding. This is an area where xAI has a real advantage over most competitors as it gives Gronk full access and real time learning from the X social media platform, pulling trends from the social platforms' 500 million users around the world. Gronk pulls in the top benchmark score of 68.7% with Google's Gemini Pro 1.5 coming in second with 67.5%. all other competitors fall almost 10-20% behind Grok-1.5 on this benchmark.
 
+[The chart and results mention can be found in this xAi blog post](https://x.ai/blog/grok-1.5v)
+
 ## *Recommendations*
 
 While I do not feel qualified to make recommendations to Elon Musk, I would like to imagine some other products to come for xAI. Without a doubt, we can conclude that there will be other products that are heavily used in Elon's other companies. Tesla will use the research into machine learning to continue to develop electric cars with the autonomous driving feature. SpaceX will most likely us AI to help solve the issues complicating humankind colonizing mars. Outside of these future products I would personally like to see a new competitor to the smartphone market.
@@ -62,4 +66,14 @@ While I do not feel qualified to make recommendations to Elon Musk, I would like
 I have had and used an Apple iPhone for the since the iPhone 3s came out in 2009. Apple always did a great job of creating a product with beautiful UI and a simplicity that made their phones easy for most generations to use. At this point my iPhone is a comfort and the thought of having an Android phone again feels dreadful. However, outside of those two options there are no other serious competitors. With Apple looking to add its new “apple Intelligence" to their newest iPhone, there is a lot of uncertainty revolving around the AI's capabilities and personal Privacy. Elon Musk himself has stated with apple's new AI he will not permit workers in his buildings to have or use apple products with these capabilities, and visitors to his factories will have to check them in before entering. Given the uncertainty around the capabilities of Ai, I imagine there will be a large market for an alternative phone for people who wish for options other than an android phone. Therefore, I believe an X phone with an emphasis on the use of Explainable AI would be a promising alternative to a very large portion of iPhone users who are looking for more alternatives.
 
 
-[def]: https://x.com/elonmusk/status/1794981927125987683?lang=en
+## Citation for resources 
+
+Vincent, J. (2018, February 21). Elon Musk leaves board of AI safety group to avoid conflict of interest with Tesla. Retrieved July 9, 2024, from https://www.theverge.com/2018/2/21/17036214/elon-musk-openai-ai-safety-leaves-board
+
+Chan, K., Beaty, T., & O'Brien, M. (2024, March 4). Why Is Elon Musk Bringing Legal Action Against OpenAI? Learning English. Retrieved July 9, 2024, from https://learningenglish.voanews.com/a/why-is-elon-musk-bringing-legal-action-against-openai-/7513306.html
+
+Bratu, E. (2018, October 16). The biggest AI breakthroughs over the past 10 years. Qualitance. Retrieved July 9, 2024, from https://qualitance.com/blog/biggest-ai-breakthroughs-past-10-years/
+
+Blog posts: https://x.ai/blog/series-b ,
+            https://x.ai/blog/prompt-ide , 
+            https://x.ai/blog/grok-1.5v
